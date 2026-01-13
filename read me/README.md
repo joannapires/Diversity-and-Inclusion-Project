@@ -1,5 +1,6 @@
 # Diversity and Inclusion Project
 
+
 ## Project Overview
 
 This project is a simple, responsive webpage designed to introduce the core concepts of **diversity and inclusion** in a workplace or educational context. It is aimed at users who are new to the topic and want clear, straightforward information presented in an organised and accessible way.
