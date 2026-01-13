@@ -1,0 +1,16 @@
+
+.button1 {
+    border-width: 10px;
+    border-color: aqua;
+}
+.container-fluid{
+background-color:rgb(123,188,182);
+padding: 10px;
+background-attachment: fixed;
+}
+.title {
+    text-align: left;
+}
+.subtitle {
+    padding-left: 20px;
+}
