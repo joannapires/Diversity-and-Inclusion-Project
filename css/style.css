@@ -6,8 +6,16 @@
 .container-fluid{
 background-color:rgb(123,188,182);
 padding: 10px;
-background-attachment: fixed;
+overflow:visible;
+position:fixed;
+top: 0;
+width: 100%;
+border-bottom: 5px;
+border-color: black;
 }
 #opening-paragraph {
-    padding-top: 20px;
+    margin-top: 110px;
+    padding: 20px;
+    background-color: rgb(67, 120, 114);
+    border-radius: 10px;
 }
