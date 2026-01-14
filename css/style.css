@@ -19,3 +19,18 @@ border-color: black;
     background-color: rgb(67, 120, 114);
     border-radius: 10px;
 }
+    #section2 {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#section3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+.equity-text {
+    padding-bottom: 8px;
+}
+.inclusion-text {
+    padding-bottom: 8px;
+}
