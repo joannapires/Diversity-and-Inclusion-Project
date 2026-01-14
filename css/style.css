@@ -1,36 +1,64 @@
-
-.button1 {
-    border-width: 10px;
-    border-color: aqua;
-}
-.container-fluid{
-background-color:rgb(123,188,182);
-padding: 10px;
-overflow:visible;
-position:fixed;
-top: 0;
-width: 100%;
-border-bottom: 5px;
-border-color: black;
+.container-fluid {
+  background-color: rgb(123, 188, 182);
+  padding: 10px;
+  overflow: visible;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-bottom: 5px;
+  border-color: black;
+  z-index: 1000;
 }
 #opening-paragraph {
-    margin-top: 110px;
-    padding: 20px;
-    background-color: rgb(67, 120, 114);
-    border-radius: 10px;
+  margin-top: 110px;
+  padding: 20px;
+  background-color: rgb(67, 120, 114);
+  border-radius: 10px;
+  margin-bottom: 10px;
 }
-    #section2 {
-    padding-bottom: 20px;
-    padding-top: 20px;
+#section2 {
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 #section3 {
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 .equity-text {
-    padding-bottom: 8px;
+  padding-bottom: 8px;
 }
 .inclusion-text {
-    padding-bottom: 8px;
+  padding-bottom: 8px;
+}
+.card {
+  background-color: rgba(67, 120, 114, 0.822);
+}
+.image {
+    width: 80vw;
+    height: auto;
+    position:relative;
+    margin-left: 110px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+#section4 {
+  margin-bottom: 20px;
+}
+.accordion-button {
+    background-color: rgb(67, 120, 114);
+    font-weight: bold;
+}
+#collapseOne {
+    background-color: rgba(123, 188, 181, 0.692);
+}
+#icon1 {
+  margin: 10px;
+}
+#icon2 {
+  margin: 10px;
+}
+#icon3 {
+  margin: 10px;
 }
